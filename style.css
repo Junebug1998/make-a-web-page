@@ -1,0 +1,19 @@
+.title	{color: green;}
+  .title {background-color: yellow;}
+h1 { text-align: center;}
+* { -webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}.Notes {display: flex;}
+	.Stage0 {width: 50%} 
+		.stage0 {margin-left: 10%;}
+		.stage0 {margin-right:5%;}
+		.stage0 {padding: 2px; }
+		.stage0 {background-color: greenyellow;}
+		
+	.Stage1 {width: 50%;}
+ 		.stage1 {margin-left: 15%;}	
+ 		.stage1 {margin-right:5%;}
+ 		.stage1 {padding: 2px;}
+ 		.stage1 {background-color: greenyellow;}
